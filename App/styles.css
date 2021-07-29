@@ -1,0 +1,23 @@
+.container {
+	height: 140px;
+	width: 600px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: left;
+	background-color: aliceblue;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.block {
+	height: 100px;
+	width: 150px;
+}
+
+.instructions {
+	height: 140px;
+	width: 800px;
+	background-color: aqua;
+	padding-top: 10px;
+	padding-left: 10px;
+}
